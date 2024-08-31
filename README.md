@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 🚀 **Aspiring Data Scientist | AI & ML Enthusiast | Fintech & Growth**  
-🎓 **CS Grad '24 | BIT Mesra**  
 
 🌱 **Learning:** Data Engineering, Deep Learning, NLP, Machine Learning Algorithms  
 
