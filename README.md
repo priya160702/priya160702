@@ -20,3 +20,9 @@
 
 🤝 **Open to:** Collaborations, Projects, and Networking
 
+
+## Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=priya160702&title=-Joined2020)](https://github.com/priya160702/github-profile-trophy)
+
+
