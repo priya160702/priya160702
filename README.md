@@ -12,10 +12,11 @@
 
 🎯 **Currently:** Seeking to contribute to impactful and innovative projects  
 
-✍️ **Writing:** On a personal blog about data, analytics, and technology  
+✍️ **Writing:** On a personal blog about data, analytics, and technology
+
 Read more at: https://medium.com/@bhushanpriya1607
 
-📈 **Past Experience:** Financial Market Analyst at FuturesFirst  
+📈 **Past Experience:** Financial Market Analyst at FuturesFirst, Growth and Analytics at Park+
 
 💬 **Ask me about:** Data Engineering, Machine Learning, Data Analysis, and Finance  
 
