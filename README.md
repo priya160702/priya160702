@@ -13,6 +13,7 @@
 🎯 **Currently:** Seeking to contribute to impactful and innovative projects  
 
 ✍️ **Writing:** On a personal blog about data, analytics, and technology  
+Read more at: https://medium.com/@bhushanpriya1607
 
 📈 **Past Experience:** Financial Market Analyst at FuturesFirst  
 
